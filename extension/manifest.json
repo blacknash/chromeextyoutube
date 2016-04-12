@@ -1,5 +1,4 @@
 {
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzKP2kiwIP7tPEmWW6qcYQoI+IY0/Ovyx3R4zbpddYsPm2v76jrMB4hVujPEFnlh+r3gppZ6Y9QXzONBDPn8LJQy+EF+f0XEkFoXbwUDhf7CASouiFxFbvek14+bqAxQc+WIWOfN29yoN7e0E+pzSHk+iera//mC/Up1G0ofgTowd4m9ULDDkN8DEeGh+MWKMvG0TnpS1A7VV3wkWRS32W48t6Ul9V09yd2pgLgfxvRbsIGNroSkdQ3+ZJuZN265gLsso3osFGldWu0TmsnfhrruhPgTm9PRdX/GIG41vViEXJoGAmmXudhqmSnf7kT0U6i+H4p5ZNP0NZpp0cTGnVwIDAQAB",
   "manifest_version": 2,
   "name": "Youtube Video Extension",
   "description": "This extension simplifies the youtube video's search",

@@ -1,2 +1,2 @@
 # randvideo
-Random Video Extension
+Extension for youtube video's search

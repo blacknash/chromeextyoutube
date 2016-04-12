@@ -1,20 +1,19 @@
 <!doctype html>
 <html>
   <head>
+
     <title>Getting Started Extension's Popup</title>
-    <style>
-      body {
-        font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
-        font-size: 100%;
-        width:400px;
-      }
-    </style>
+    <link href='https://fonts.googleapis.com/css?family=Product+Sans' rel='stylesheet' type='text/css'/>
+    <link href="style.css" rel="stylesheet" type="text/css"/>
   </head>
   <body>
-    <input id="searchText">
-    <button id="searchButton">Search</button>
+    <form id="searchForm">
+      <input id="searchText" placeholder="Video title" autocomplete="off">
+      <span>Press enter for search</span>
+    </form>
 
     <div id="videos"></div>
+    <div id="video"></div>
 
     <script src="popup.js"></script>
   </body>
