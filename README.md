@@ -1,2 +1,3 @@
-# randvideo
-Extension for youtube video's search
+# Youtube Video Extension
+This extension simplifies the youtube video's search
+
